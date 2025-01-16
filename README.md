@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋My name is Carlos.</h2>
 
 ###
-🎓 Systems analysis and development
+
 💡 Love a good challenge
 
 
